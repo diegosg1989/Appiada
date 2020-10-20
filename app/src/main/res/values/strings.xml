@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Appiada</string>
+    <string name="label_joker_hint">New joker</string>
+    <string name="button_new_joker">Tell me joker</string>
+
+    <string name="joker_one">Joker 1</string>
+    <string name="joker_two">Joker 2</string>
+    <string name="joker_three">Joker 3</string>
+    <string name="joker_four">Por que o Napoleão era chamado sempre pras festas?\nPorque ele era BOM NA PARTY.</string>
+    <string name="joker_five">Qual é o rei dos queijos?\nÉ o reiqueijão.</string>
+    <string name="joker_six">Por que a velhinha não usa relógio?\nPorque ela é senhora.</string>
+    <string name="joker_seven">Quando os americanos comeram carne pela primeira vez?\nQuando chegou Cristovão Com Lombo.</string>
+</resources>
